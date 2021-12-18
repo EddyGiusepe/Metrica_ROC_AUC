@@ -16,6 +16,8 @@ Links de estudo:
 
 * [Accuracy, Precision, Recall, Specificity e AUC-ROC](https://www.youtube.com/watch?v=vS6bQy45rdE&t=294s)
 
+* [AUC e ROC nos modelos de Machine Learning](https://medium.com/@eam.avelar/o-que-%C3%A9-auc-e-roc-nos-modelos-de-machine-learning-2e2c4112033d)
+
 
 
 Thanks God!
