@@ -12,6 +12,10 @@ Outra medida de avaliação para a classificação de vários rótulos é a macr
 
 Links de estudo:
 
-* [link1](https://medium.com/bio-data-blog/entenda-o-que-%C3%A9-auc-e-roc-nos-modelos-de-machine-learning-8191fb4df772)
+* [Entenda o que é AUC e ROC nos modelos de Machine Learning](https://medium.com/bio-data-blog/entenda-o-que-%C3%A9-auc-e-roc-nos-modelos-de-machine-learning-8191fb4df772)
 
-* https://www.youtube.com/watch?v=vS6bQy45rdE&t=294s
+* [Accuracy, Precision, Recall, Specificity e AUC-ROC](https://www.youtube.com/watch?v=vS6bQy45rdE&t=294s)
+
+
+
+Thanks God!
